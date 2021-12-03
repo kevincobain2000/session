@@ -11,7 +11,7 @@ Example:
 		"fmt"
 		"net/http"
 
-		"github.com/go-session/session"
+		"github.com/kevincobain2000/session"
 	)
 
 	func main() {
@@ -55,6 +55,6 @@ Open in your web browser at http://localhost:8080
 Output:
 	foo:bar
 
-Learn more at https://github.com/go-session/session
+Learn more at https://github.com/kevincobain2000/session
 */
 package session
